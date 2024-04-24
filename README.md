@@ -6,8 +6,7 @@ My current skill set includes HTML, CSS, JavaAcript and the framework Tailwind.
 
 🧰ToolBox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript icon" width="50" height='50'>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height='50'>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript icon" width="50" height='50'><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height='50'>
 <img src="" alt="" width="50" height='50'>
 <img src="" alt="" width="50" height='50'>
 <!--
