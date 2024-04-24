@@ -3,7 +3,7 @@
 I'm a young up-coming software developer who aspirer's to be a game developer.🎮 
 
 My current skill set includes HTML, CSS, JavaAcript and the framework Tailwind.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🧰ToolBox
 <!--Icons-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript icon" width="50" height='50'><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height='50'>
@@ -15,6 +15,7 @@ My current skill set includes HTML, CSS, JavaAcript and the framework Tailwind.
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 Socials
+
 <img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" alt="Discord" width="50" height='50'>
 
 
