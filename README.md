@@ -4,7 +4,9 @@ I'm a young up-coming software developer who aspirer's to be a game developer.�
 
 My current skill set includes HTML, CSS, JavaAcript and the framework Tailwind.
 
+🧰ToolBox
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript icon" width="50" height='50'>
 
 <!--
 **AdenCronje/AdenCronje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
