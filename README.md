@@ -18,9 +18,11 @@ My current skill set includes HTML, CSS, JavaAcript and the framework Tailwind.
 Socials
 
 <img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" alt="Discord" width="50" height='50'><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" alt="Insta" width="50" height='50'>
-<img src="f" alt="" width="50" height='50'>
-<img src="f" alt="" width="50" height='50'>
-<img src="f" alt="" width="50" height='50'>
+<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/x/x.svg" alt="X" width="50" height='50'>
+<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" alt="Gmail" width="50" height='50'>
+<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" alt="Linkdein" width="50" height='50'>
+<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/github/github.svg" alt="Github" width="50" height='50'>
+<!--<img src="" alt="" width="50" height='50'>->
 <!--
 **AdenCronje/AdenCronje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
