@@ -22,7 +22,11 @@ Socials
 <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" alt="Gmail" width="50" height='50'>
 <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" alt="Linkdein" width="50" height='50'>
 <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/github/github.svg" alt="Github" width="50" height='50'>
-<!--<img src="" alt="" width="50" height='50'>->
+<!--<img src="" alt="" width="50" height='50'>-->
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+
 <!--
 **AdenCronje/AdenCronje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
