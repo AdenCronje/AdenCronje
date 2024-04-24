@@ -1,6 +1,8 @@
 ### Hi there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> I am AdenCronje
 
+I'm a young up-coming software developer who aspirer's to be a game developer.🎮 
 
+My current skill set includes HTML, CSS, JavaAcript and the framework Tailwind.
 
 
 
