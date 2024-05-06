@@ -2,7 +2,7 @@
 
 I'm a young up-coming software developer who aspirer's to be a game developer.🎮 
 
-My current skill set includes HTML, CSS, JavaAcript and the framework Tailwind.
+My current skill set includes HTML, CSS, JavaScript and the framework Tailwind.
 
 🧰ToolBox
 <!--Icons-->
