@@ -15,13 +15,11 @@ My current skill set includes HTML, CSS, JavaScript and the frameworks React, Ta
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-![image](https://github.com/user-attachments/assets/976ae202-a26b-4d81-8989-9d6eaad4a4ae)
-
 
 
 Socials📲
 
-<img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" alt="Discord" width="50" height='50'><img ![image](https://github.com/user-attachments/assets/976ae202-a26b-4d81-8989-9d6eaad4a4ae) alt="Instagram" width="50" height='50'>
+<img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" alt="Discord" width="50" height='50'><img src="https://github.com/user-attachments/assets/976ae202-a26b-4d81-8989-9d6eaad4a4ae" alt="Instagram" width="50" height='50'>
 <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/x/x.svg" alt="X" width="50" height='50'>
 <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" alt="Gmail" width="50" height='50'>
 <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" alt="Linkdein" width="50" height='50'>
