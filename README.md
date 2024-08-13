@@ -22,9 +22,12 @@ Socials📲
 <img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" alt="Discord" width="50" height='50'><img src="https://github.com/user-attachments/assets/976ae202-a26b-4d81-8989-9d6eaad4a4ae" alt="Instagram" width="50" height='50'>
 <img src="https://github.com/user-attachments/assets/95ae1f1a-5156-4e79-8922-5c3e01d0c10d" alt="X" width="50" height='50'>
 
-<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" alt="Gmail" width="50" height='50'>
-<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" alt="Linkdein" width="50" height='50'>
-<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/github/github.svg" alt="Github" width="50" height='50'>
+<img src="https://github.com/user-attachments/assets/1fe690d5-8473-498a-8d4b-1f0b3e782fa3" alt="Gmail" width="50" height='50'>
+
+<img src="https://github.com/user-attachments/assets/4777461e-e902-4f37-85fc-7a60d78b96a4" alt="Linkdein" width="50" height='50'>
+
+<img src="https://github.com/user-attachments/assets/de34d7cf-52e9-4596-ae2b-7686b89bbd7d" alt="Github" width="50" height='50'>
+
 <!--<img src="" alt="" width="50" height='50'>-->
 
 
