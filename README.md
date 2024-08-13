@@ -20,7 +20,7 @@ My current skill set includes HTML, CSS, JavaScript and the frameworks React, Ta
 Socials📲
 
 <img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" alt="Discord" width="50" height='50'><img src="https://github.com/user-attachments/assets/976ae202-a26b-4d81-8989-9d6eaad4a4ae" alt="Instagram" width="50" height='50'>
-<img src="[https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/x/x.svg](https://github.com/user-attachments/assets/95ae1f1a-5156-4e79-8922-5c3e01d0c10d)" alt="X" width="50" height='50'>
+<img src="https://github.com/user-attachments/assets/95ae1f1a-5156-4e79-8922-5c3e01d0c10d" alt="X" width="50" height='50'>
 
 <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" alt="Gmail" width="50" height='50'>
 <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" alt="Linkdein" width="50" height='50'>
